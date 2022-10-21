@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
 stepik-homeworks
-hui
+hui// ахуеть еще раз
